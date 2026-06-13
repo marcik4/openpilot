@@ -1,4 +1,4 @@
-Version 0.10.1 (2026-06-13)
+Version 0.10.2 (2026-06-13)
 ========================
 * Shutdown after 20min to optimize battery
 
@@ -17,7 +17,7 @@ Version 0.10.0 (2025-08-05)
 * Honda CR-V 2023-25 support thanks to vanillagorillaa and MVL!
 * Honda Pilot 2023-25 support thanks to vanillagorillaa and MVL!
 
-Version jvePilot-0.10.0(v3.19)
+Version jvePilot-0.10.2(v3.20)
 ========================
 * Version 0.10.0 (2025-07-07)
   * New driving model
