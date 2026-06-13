@@ -1,3 +1,7 @@
+Version 0.10.1 (2026-06-13)
+========================
+* Shutdown after 20min to optimize battery
+
 Version 0.10.0 (2025-08-05)
 ========================
 * New driving model
